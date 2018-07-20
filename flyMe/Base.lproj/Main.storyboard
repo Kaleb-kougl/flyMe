@@ -18,15 +18,34 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Welcome to flyMe!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="06U-DA-msh">
-                                <rect key="frame" x="52" y="89" width="271" height="41"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="34"/>
-                                <color key="textColor" red="0.54509803921568623" green="0.85098039215686272" blue="0.14509803921568626" alpha="1" colorSpace="calibratedRGB"/>
-                                <nil key="highlightedColor"/>
-                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DJg-zv-xzj">
+                                <rect key="frame" x="53" y="312.5" width="269" height="42"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Welcome to flyMe" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="06U-DA-msh">
+                                        <rect key="frame" x="0.0" y="0.0" width="270" height="41"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="270.5" id="E99-u8-VUm"/>
+                                            <constraint firstAttribute="height" constant="41" id="jJe-GZ-fRz"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="34"/>
+                                        <color key="textColor" red="0.54509803921568623" green="0.85098039215686272" blue="0.14509803921568626" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="06U-DA-msh" firstAttribute="centerY" secondItem="DJg-zv-xzj" secondAttribute="centerY" id="7Uf-75-aer"/>
+                                    <constraint firstAttribute="width" constant="269.5" id="fUg-wr-cDR"/>
+                                    <constraint firstItem="06U-DA-msh" firstAttribute="centerX" secondItem="DJg-zv-xzj" secondAttribute="centerX" id="mjP-ti-yFF"/>
+                                    <constraint firstAttribute="height" constant="42" id="tUi-Ik-9rC"/>
+                                </constraints>
+                            </view>
                         </subviews>
                         <color key="backgroundColor" red="0.79607843137254897" green="0.13333333333333333" blue="0.41176470588235292" alpha="0.81290132705479456" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="DJg-zv-xzj" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="4Ru-km-DuG"/>
+                            <constraint firstItem="DJg-zv-xzj" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="niV-w8-hkv"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                 </viewController>
