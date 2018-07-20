@@ -13,6 +13,7 @@
 		207989C0210247B400E9A020 /* flyMe.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 207989BE210247B400E9A020 /* flyMe.xcdatamodeld */; };
 		207989C2210247B400E9A020 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 207989C1210247B400E9A020 /* Assets.xcassets */; };
 		207989C5210247B400E9A020 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 207989C3210247B400E9A020 /* LaunchScreen.storyboard */; };
+		207989CD2102643B00E9A020 /* 1024px-Airplane_silhouette.png in Resources */ = {isa = PBXBuildFile; fileRef = 207989CC2102643B00E9A020 /* 1024px-Airplane_silhouette.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		207989C1210247B400E9A020 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		207989C4210247B400E9A020 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		207989C6210247B400E9A020 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		207989CC2102643B00E9A020 /* 1024px-Airplane_silhouette.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1024px-Airplane_silhouette.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				207989BB210247B400E9A020 /* Main.storyboard */,
 				207989C1210247B400E9A020 /* Assets.xcassets */,
 				207989C3210247B400E9A020 /* LaunchScreen.storyboard */,
+				207989CC2102643B00E9A020 /* 1024px-Airplane_silhouette.png */,
 				207989C6210247B400E9A020 /* Info.plist */,
 				207989BE210247B400E9A020 /* flyMe.xcdatamodeld */,
 			);
@@ -127,6 +130,7 @@
 			files = (
 				207989C5210247B400E9A020 /* LaunchScreen.storyboard in Resources */,
 				207989C2210247B400E9A020 /* Assets.xcassets in Resources */,
+				207989CD2102643B00E9A020 /* 1024px-Airplane_silhouette.png in Resources */,
 				207989BD210247B400E9A020 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
