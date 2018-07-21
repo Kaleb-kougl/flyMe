@@ -18,15 +18,26 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="1024px-Airplane_silhouette.png" translatesAutoresizingMaskIntoConstraints="NO" id="YSx-xi-3oM">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="flyMe_launchScreen_Background.png" translatesAutoresizingMaskIntoConstraints="NO" id="YSx-xi-3oM">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="flyMe_launchScreen.png" translatesAutoresizingMaskIntoConstraints="NO" id="2k9-U0-8vP">
+                                <rect key="frame" x="46" y="192" width="283" height="283"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="283" id="AtF-2r-u1F"/>
+                                    <constraint firstAttribute="height" constant="283" id="RZu-PN-YRw"/>
+                                </constraints>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="YSx-xi-3oM" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="91y-cF-HWd"/>
+                            <constraint firstItem="2k9-U0-8vP" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="FD1-HX-QpR"/>
+                            <constraint firstItem="2k9-U0-8vP" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="Mml-i1-jgd"/>
                             <constraint firstItem="YSx-xi-3oM" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="Y3l-aZ-HA0"/>
                             <constraint firstItem="YSx-xi-3oM" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="fRj-yT-HJe"/>
+                            <constraint firstItem="2k9-U0-8vP" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="gRA-gX-MsB"/>
+                            <constraint firstItem="2k9-U0-8vP" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="hZj-o1-VqP"/>
                             <constraint firstItem="YSx-xi-3oM" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="wUW-s1-oKX"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -38,6 +49,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="1024px-Airplane_silhouette.png" width="1024" height="1024"/>
+        <image name="flyMe_launchScreen.png" width="567" height="567"/>
+        <image name="flyMe_launchScreen_Background.png" width="1024" height="1024"/>
     </resources>
 </document>

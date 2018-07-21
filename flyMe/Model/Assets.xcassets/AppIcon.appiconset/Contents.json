@@ -3,109 +3,109 @@
     {
       "size" : "20x20",
       "idiom" : "iphone",
-      "filename" : "20x20_2xAirplane_silhouette.png",
+      "filename" : "flyMe-42.png",
       "scale" : "2x"
     },
     {
       "size" : "20x20",
       "idiom" : "iphone",
-      "filename" : "20x20_3xAirplane_silhouette.png",
+      "filename" : "flyMe_20_3x.png",
       "scale" : "3x"
     },
     {
       "size" : "29x29",
       "idiom" : "iphone",
-      "filename" : "29x29_2xAirplane_silhouette-1.png",
+      "filename" : "flyMe_58.png",
       "scale" : "2x"
     },
     {
       "size" : "29x29",
       "idiom" : "iphone",
-      "filename" : "29x29_3xAirplane_silhouette.png",
+      "filename" : "flyMe-Small_3x.png",
       "scale" : "3x"
     },
     {
       "size" : "40x40",
       "idiom" : "iphone",
-      "filename" : "40x40_2xAirplane_silhouette-1.png",
+      "filename" : "flyMe-40_2x.png",
       "scale" : "2x"
     },
     {
       "size" : "40x40",
       "idiom" : "iphone",
-      "filename" : "60x60_2xAirplane_silhouette.png",
+      "filename" : "flyMe-120.png",
       "scale" : "3x"
     },
     {
       "size" : "60x60",
       "idiom" : "iphone",
-      "filename" : "60x60_2xAirplane_silhouette-1.png",
+      "filename" : "flyMe_120.png",
       "scale" : "2x"
     },
     {
       "size" : "60x60",
       "idiom" : "iphone",
-      "filename" : "60x60_3xAirplane_silhouette.png",
+      "filename" : "flyMe_180.png",
       "scale" : "3x"
     },
     {
       "size" : "20x20",
       "idiom" : "ipad",
-      "filename" : "20x20_1xAirplane_silhouette.png",
+      "filename" : "flyMe_20.png",
       "scale" : "1x"
     },
     {
       "size" : "20x20",
       "idiom" : "ipad",
-      "filename" : "20x20_2xAirplane_silhouette-1.png",
+      "filename" : "flyMe-41.png",
       "scale" : "2x"
     },
     {
       "size" : "29x29",
       "idiom" : "ipad",
-      "filename" : "29x29_1xAirplane_silhouette.png",
+      "filename" : "flyMe-Small-1.png",
       "scale" : "1x"
     },
     {
       "size" : "29x29",
       "idiom" : "ipad",
-      "filename" : "29x29_2xAirplane_silhouette.png",
+      "filename" : "flyMe-Small_2x.png",
       "scale" : "2x"
     },
     {
       "size" : "40x40",
       "idiom" : "ipad",
-      "filename" : "40x40_1xAirplane_silhouette.png",
+      "filename" : "flyMe-40.png",
       "scale" : "1x"
     },
     {
       "size" : "40x40",
       "idiom" : "ipad",
-      "filename" : "40x40_2xAirplane_silhouette.png",
+      "filename" : "flyMe-40_2x-1.png",
       "scale" : "2x"
     },
     {
       "size" : "76x76",
       "idiom" : "ipad",
-      "filename" : "76x76_1xAirplane_silhouette.png",
+      "filename" : "flyMe-76.png",
       "scale" : "1x"
     },
     {
       "size" : "76x76",
       "idiom" : "ipad",
-      "filename" : "76x76_2xAirplane_silhouette.png",
+      "filename" : "flyMe-76_2x.png",
       "scale" : "2x"
     },
     {
       "size" : "83.5x83.5",
       "idiom" : "ipad",
-      "filename" : "835x8352xAirplane_silhouette.png",
+      "filename" : "flyMe-835_2x.png",
       "scale" : "2x"
     },
     {
       "size" : "1024x1024",
       "idiom" : "ios-marketing",
-      "filename" : "1024px-Airplane_silhouette.png",
+      "filename" : "flyMe.png",
       "scale" : "1x"
     }
   ],
